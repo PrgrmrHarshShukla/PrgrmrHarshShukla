@@ -10,4 +10,4 @@ I have a keen interest in Full Stack Development.
 
 I work with the MERN Stack.
 
-I am working on getting an in-depth understanding in order to be language-agnostic Software Engineer.
+I am working on getting an in-depth understanding in order to be a language-agnostic Software Engineer.
