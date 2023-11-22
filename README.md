@@ -4,7 +4,7 @@ My name is Harsh Shukla.
 
 I am pursuing CS undergrad degree.
 
-I have a keen interest in Full Stack Development.
+I have a keen interest in tech in general and Full Stack Development in particular.
 
 #
 
