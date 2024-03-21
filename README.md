@@ -14,8 +14,8 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 
   ## 🔗 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/harsh-shukla-274277255)
 - [Twitter](https://twitter.com/PrgrmrShukla)
+- [LinkedIn](https://linkedin.com/in/harsh-shukla-274277255)
 - [Leetcode](https://leetcode.com/harshshukla_123)
 - [Portfolio Website](https://harsh-shukla-portfolio-website.netlify.app)
 
