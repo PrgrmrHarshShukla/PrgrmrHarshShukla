@@ -7,10 +7,10 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 
 ## 💼 Skills and Technologies
 
-- **Languages:** JavaScript, TypeScript, C/C++
 - **Tech Stack:** Next.js, React.js, Node.js, Express.js, TailwindCSS
+- **Languages:** JavaScript, TypeScript, C/C++
 - **Databases:** MongoDB, PostgreSQL
-- **Miscellaneous:** Prisma, Vercel, Netlify, Leetcode Questions
+- **Miscellaneous:** Prisma, Vercel, Netlify, Leetcode
 
   ## 🔗 Connect with Me
 
