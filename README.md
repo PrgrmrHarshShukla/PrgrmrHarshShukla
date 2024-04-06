@@ -20,7 +20,7 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 - [Portfolio Website](https://harsh-shukla-portfolio-website.netlify.app)
 
 
-Feel free to explore my repositories and connect with me on socials.
+
 #
 Have a great day,
 Harsh
