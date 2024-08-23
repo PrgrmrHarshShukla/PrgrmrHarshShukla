@@ -1,7 +1,8 @@
 # 👋 Hello, this is Harsh Shukla
 
 I am pursuing my CS undergrad degree.
-I have a keen interest in tech in general and Full Stack Development (entry door for me) in particular.
+
+I have a keen interest in tech in general and Full Stack Development in particular.
 
 I particularly love and enjoy the intuitive feel for a clean, responsive UI and the innately logical structure of the backend.
 
@@ -14,7 +15,7 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 - **Databases:** PostgreSQL, MongoDB
 - **Miscellaneous:** Prisma, Vercel, Netlify, Leetcode
 
-  ## 🔗 Connect with Me
+## 🔗 Connect with Me
 
 - [Twitter](https://twitter.com/PrgrmrShukla)
 - [LinkedIn](https://www.linkedin.com/in/harsh-s-274277255)
@@ -23,6 +24,8 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 
 
 
-#
+
+##
 Have a great day,
+
 Harsh
