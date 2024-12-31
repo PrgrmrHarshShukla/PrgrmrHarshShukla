@@ -20,7 +20,7 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 - [Twitter](https://twitter.com/PrgrmrShukla)
 - [LinkedIn](https://www.linkedin.com/in/harsh-s-274277255)
 - [Leetcode](https://leetcode.com/harshshukla_123)
-- [Portfolio Website](https://harsh-shukla-portfolio-website.netlify.app)
+- [Portfolio Website](https://prgrmr.vercel.app)
 
 
 
