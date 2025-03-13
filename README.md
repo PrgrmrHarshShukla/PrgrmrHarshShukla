@@ -13,7 +13,7 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 - **Styling:** TailwindCSS, ShadCN, ChakraUI
 - **Languages:** JavaScript, TypeScript, C/C++, Python
 - **Databases:** PostgreSQL, MongoDB
-- **Miscellaneous:** Prisma, Vercel, Netlify, Leetcode
+- **Miscellaneous:** Prisma, Vercel, Netlify, Leetcode, DSA(C++)
 
 ## 🔗 Connect with Me
 
