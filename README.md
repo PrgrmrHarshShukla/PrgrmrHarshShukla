@@ -9,7 +9,7 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 ## 💼 Skills and Technologies
 
 - **Tech Stack (Web):** Next.js, React.js, Node.js, Express.js, Django
-- **Tech Stack (Android):** React Native and Expo
+- **Tech Stack (Mobile - Android + iOS):** React Native and Expo
 - **Styling:** TailwindCSS, ShadCN, ChakraUI
 - **Languages:** JavaScript, TypeScript, C/C++, Python
 - **Databases:** PostgreSQL, MongoDB
