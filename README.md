@@ -1,4 +1,4 @@
-# 👋 Hello, this is Harsh Shukla
+# 👋 Hello there, my name is Harsh Shukla
 
 I am pursuing my CS undergrad degree.
 
@@ -28,4 +28,4 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 ##
 Have a great day,
 
-Harsh
+Harsh S
