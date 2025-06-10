@@ -13,7 +13,7 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 - **Styling:** TailwindCSS, ShadCN, ChakraUI
 - **Languages:** JavaScript, TypeScript, C/C++, Python
 - **Databases:** PostgreSQL, MongoDB
-- **Miscellaneous:** Prisma, Vercel, Netlify, Leetcode, DSA(C++)
+- **Miscellaneous:** Prisma, Vercel, Netlify, Leetcode, DSA(C++), Git(GitHub & Phabricator via Arcanist)
 
 ## 🔗 Connect with Me
 
@@ -22,7 +22,7 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 - [Leetcode](https://leetcode.com/harshshukla_123)
 - [Portfolio Website](https://prgrmr.vercel.app)
 
-
+Email: ashuklaharsh2005@gmail.com
 
 
 ##
