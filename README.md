@@ -21,8 +21,7 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 - [LinkedIn](https://www.linkedin.com/in/harsh-s-274277255)
 - [Leetcode](https://leetcode.com/harshshukla_123)
 - [Portfolio Website](https://prgrmr.vercel.app)
-
-Email: ashuklaharsh2005@gmail.com
+- ashuklaharsh2005@gmail.com
 
 
 ##
