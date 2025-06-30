@@ -6,6 +6,10 @@ I have a keen interest in tech in general and Full Stack Development in particul
 
 I particularly love and enjoy the intuitive feel for a clean, responsive UI and the innately logical structure of the backend.
 
+
+## Note 
+Most of my work is private, on GitHub, Phabricator, etc.
+
 ## 💼 Skills and Technologies
 
 - **Tech Stack (Web):** Next.js, React.js, Node.js, Express.js, Django
