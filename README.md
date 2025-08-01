@@ -8,7 +8,7 @@ I particularly love and enjoy the intuitive feel for a clean, responsive UI and 
 
 
 ## ⚠️ Note 
-Most of my work is private, on GitHub, Phabricator, etc., because of obvious restrictions.
+Most of my work is now in private repositories/projects on GitHub, Phabricator, etc.
 
 ## 💼 Skills and Technologies
 
