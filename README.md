@@ -1,6 +1,7 @@
 # 👋 Hello there, my name is Harsh Shukla
 
 I’m a CS undergrad with a strong interest in full-stack development and technology in general. 
+
 I enjoy the interplay between clean, responsive UI design and the logical structure of backend systems and often explore philosophy alongside coding.
 
 
