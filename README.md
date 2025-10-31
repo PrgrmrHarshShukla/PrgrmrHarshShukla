@@ -1,10 +1,7 @@
 # 👋 Hello there, my name is Harsh Shukla
 
-I am pursuing my CS undergrad degree.
-
-I have a keen interest in tech in general and Full Stack Development in particular along with some philosophy.
-
-I particularly love and enjoy the intuitive feel for a clean, responsive UI and the innately logical structure of the backend.
+I’m a CS undergrad with a strong interest in full-stack development and technology in general. 
+I enjoy the interplay between clean, responsive UI design and the logical structure of backend systems and often explore philosophy alongside coding.
 
 
 ## ⚠️ Note 
